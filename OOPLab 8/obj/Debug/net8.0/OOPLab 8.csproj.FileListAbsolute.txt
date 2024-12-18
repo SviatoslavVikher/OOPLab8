@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\OOPLab 8\obj\Debug\net8.0\OOPLab 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab 8\obj\Debug\net8.0\OOPLab 8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab 8\obj\Debug\net8.0\OOPLab 8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab 8\obj\Debug\net8.0\OOPLab 8.csproj.CoreCompileInputs.cache

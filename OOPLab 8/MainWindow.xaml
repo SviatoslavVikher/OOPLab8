@@ -1,0 +1,27 @@
+﻿ using System;
+
+namespace LiquidApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Створення об'єктів рідини
+            Liquid water = new Liquid("Water", 1.0, 0.072);
+            Alcohol vodka = new Alcohol("Vodka", 0.789, 0.028, 40);
+            Petrol gasoline = new Petrol("Gasoline", 0.75, 0.025, 95);
+
+            // Використання методів зміни властивостей
+            water.ChangeDensity(1.02);
+            water.ChangeSurfaceTension(0.073);
+
+            vodka.ChangeStrength(45);
+            vodka.ChangeSurfaceTension(0.029);
+
+            gasoline.ChangeOctaneRating(98);
+            gasoline.ChangeSurfaceTension(0.027);
+
+            Console.ReadLine();
+        }
+    }
+}
